@@ -1,0 +1,68 @@
+p {
+	color: purple;
+	background-color: hotpink;
+	font-size: 20px;
+}
+
+body{
+	background-color: #a0a5ff;
+	font-family: ´Indie Flower´, cursive;
+	text-align: center; 
+}
+
+#bakgrund1{
+	background-image: url("../bilder/blå glitter.JPG");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}
+
+ul{
+	color: #ff0000;
+	font-size: 20px;
+	text-shadow: 2px 2px black;
+	list-style-type: none;
+}
+
+h1{
+	color: hotpink;
+	font-size: 40px;
+}
+h3{
+	color: yellow;
+	font-size: 25px;
+}
+h4{
+	color: #ff005d;
+	font-size:20px;
+	text-shadow: 2px 2px black;
+}
+
+#bakgrund2{
+	background-image: url("../bilder/svart glitter.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+
+#bakgrund{
+	background-image: url("../bilder/lila glitter.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;
+}
+
+.navbar-inverse{
+	background: #ff005d;
+}
+
+.navbar-inverse .navbar-brand{
+	color:#00f2ff;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+	color:#00f2ff;
+}
